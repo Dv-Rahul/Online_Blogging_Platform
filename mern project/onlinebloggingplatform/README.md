@@ -1,7 +1,6 @@
-#Online Blogging platform
+# Online Blogging Platform
 
-
-##Screenshots: 
+## Screenshots
 <img width="1280" height="574" alt="image" src="https://github.com/user-attachments/assets/1ead05b8-95e2-4896-99cb-52dfdbcc3961" />
 <img width="1280" height="557" alt="image" src="https://github.com/user-attachments/assets/fe334d0a-745b-43bb-976e-390f3535d896" />
 <img width="1280" height="578" alt="image" src="https://github.com/user-attachments/assets/ff8bec5a-74d3-4554-8bb5-1edd9ff5c820" />
