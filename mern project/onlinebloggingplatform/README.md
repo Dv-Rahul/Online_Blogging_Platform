@@ -29,7 +29,7 @@ This is a web-based blogging platform designed for users to read, write, and sha
 <img width="1280" height="542" alt="image" src="https://github.com/user-attachments/assets/fc5ee337-97ad-49d8-9bc6-fff5fe4a5106" />
 
 ## Drawbacks/LoopHoles
-- Need to make the application responsive.
+- Need to make the application more responsive.
 - The user interface of the website is basic which should be improved.
 
 ## Team 
